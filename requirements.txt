@@ -2,4 +2,4 @@
   - torchaudio==2.0.2
   - torchvision==0.15.2
   - Pillow==9.5.0
-
+  - fire
